@@ -2,3 +2,7 @@ streamlit
 supabase
 python-dotenv
 requests
+deepgram-sdk
+python-vlc
+audioop-lts
+PyObjC
